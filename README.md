@@ -31,3 +31,8 @@ The following table lists the J-Link / J-Trace SWD pinout.
 |19|5V-Supply|Output|This pin is used to supply power to some eval boards.|
 
 Pins 4, 6, 8, 10, 12, 14, 16, 18, 20 are GND pins connected to GND in J-Link. They should also be connected to GND in the target system.
+
+
+## Future improvements ideas
+
+- After adding support for USB 3.0 and up switch usb b mini for thunderbolt
