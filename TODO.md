@@ -2,30 +2,32 @@
 
 ## Schematic
 
-[ ] USB, provides main power
+[x] USB, provides main power
 
-[ ] Power 5V to 3.3V
+[x] Power 5V to 3.3V
 
-[ ] Oscillator 
+[x] Oscillator 
 
-[ ] Reset ( button ? ) 
+[x] Reset ( button ? ) 
 
-[ ] Flash memory
+~~[ ] Flash memory~~
 
-[ ] MicroSD slot
+[x] MicroSD slot
 
-[ ] Power LED
+[x] Power LED
 
-[ ] Oscillator LED
+~~[ ] Oscillator LED~~
 
-[ ] J-Link connector
+[x] J-Link connector
 
-[ ] GPIO connectors
+[x] GPIO connectors
 
 ## PCB
 
-[ ] Route 
+[x] Route 
 
-[ ] Create bill of material
+[x] Create bill of material
 
 [ ] Order mounted
+
+[ ] Rework dimentions to 5.0 x 8.0 
