@@ -18,13 +18,13 @@ Schematic : [schematics](/doc/schematic.pdf)
 
 ## PCB
 
-Resulting pcb, fount coper layer : 
+Resulting pcb, front : 
 
-![fount!](/doc/pcb-F_Cu.svg)
+![fount!](/doc/front.png)
 
-back coper layer :
+back :
 
-![back!](/doc/pcb-B_Cu.svg)
+![back!](/doc/back.png)
 
 ## SWD - J-Link
 
