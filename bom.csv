@@ -1,0 +1,37 @@
+,,,,,,,,
+,,,xxxx xxxx xxxxx xxPCS BOM  (Sample Bill of Materials),,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Item #,*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,*Package/Footprint ,Type,Your Instructions / Notes
+1,"DC6,DC3,DC5,DC4,DC8,DC9,DC7,DC11,DC1,DC2",10,KEMET,C0402C104K4RAC,100nF,0402,SMD,80-C0402C104K4RAC
+2,U3,1,"
+Texas Instruments                                            ",TLV1117-33CDCYRG3,TLV1117-33,SOT-223,SMD,595-TLV111733CDCYRG3
+3,"R4,R5,R3",3,SEI Stackpole,RMCF0603JJ1K00,1k,0603,SMD,708-RMCF0603JJ1K00
+4,Y2,1,ABRACON,ABM11-24.000MHz-9-B1U-T3,25MHz 9uF,2.0x1.6mm,SMD,815-1124000MHZ9B1UT3
+5,"R15,R14,R13,R7,R16,R12,R10,R11",8,SEI Stackpole,RMCF01005JT10K0       ,10k,0402,SMD,708-RMCF01005JT10K0
+6,U1,1,STMicroelectronics              ,STM32H750VBT6TR,STM32H750VBTx,LQFP-100,QFP,511-STM32H750VBT6TR
+7,J2,1,On Shore Technology Inc.,302-S201,Conn_ARM_JTAG_SWD_20,THD,Through Hole,Digikey : ED10524-ND
+8,"C8,C5,C6,C7,C1,C2",6,Murata Electronics,GRT31CC80J476KE13K,47uF/3528,1206,SMD,GRT31CC80J476KE13K
+9,"D2,D1",2,EVERLIGHT,19-213SYGC/S530-E2/5T,LED,0603,SMD,
+10,"R1,R2",2,SEI Stackpole,RMCF01005JT22R0,22,0402,SMD,708-RMCF01005JT22R0
+11,"R6,R8",2,SEI Stackpole,RMCA0603JT510R,510,0603,SMD,708-RMCA0603JT510R
+12,"C4,C3",2,Murata Electronics,GJM1555C1H8R0DB01D,8pF,0402,SMD,GJM1555C1H8R0DB01D
+13,J3,1,Molex,1040310811,Micro_SD_Card_Det1,,SMD,Digikey  WM6357TR-ND
+14,D3,1,Comchip Technology,SS34BF-HF,SS34,SOD-123,SMD,750-SS34BF-HF
+15,"L1,L2",2,TAI-TECH,FCM 1608KF-102T02,1KB,0603,SMD,Digikey  4816-FCM1608KF-102T02TR-ND
+16,SW1,1,C&K,RS282G05A3SMRT,SW_RESET,3.6x2.5mm,SMD,611-RS-282G05A3-SMRT
+17,U2,1,STMicroelectronics,USBLC6-2P6,USBLC6-2P6,SOT-666,SMD,511-USBLC6-2P6
+18,J1,1,TE Connectivity,1734035-5,USB_B_Mini,,SMD,571-1734035-5
+19,"J4,J5",2,Oupiin,2044-2X25G00SA,Conn_02x25_Odd_Even,,Through Hole,Through Hole
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Need a quick and accurante quote? Need an efficient production? Please read SMT Ordering Necessary Files & Info in 1 minute. Thank you very much!,,,,,,,,
+,,,,,,,,
+Click for Instructions on How to Create a BOM,,,,,,,,
