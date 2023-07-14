@@ -6,8 +6,8 @@
 
   (title_block
     (title "top")
-    (rev "1.1")
-    (comment 1 "First version, using swd, no gpio connector")
+    (rev "1.2")
+    (comment 1 "First version")
   )
 
   (lib_symbols
@@ -5572,7 +5572,7 @@
     (property "Value" "1KB" (at 19.685 73.66 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_0402_1005Metric" (at 19.685 76.2 0)
+    (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (at 19.685 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 19.685 76.2 0)
@@ -6718,7 +6718,7 @@
     (property "Value" "Conn_ARM_JTAG_SWD_20" (at 53.34 57.15 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_TE-Connectivity:TE_MATE-N-LOK_1-794070-x_2x10_P4.14mm_Vertical" (at 38.1 64.77 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical" (at 38.1 64.77 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://infocenter.arm.com/help/topic/com.arm.doc.dui0499b/DUI0499B_system_design_reference.pdf" (at 17.78 69.85 90)
@@ -6785,7 +6785,7 @@
     (property "Reference" "Y2" (at 99.06 45.8469 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "25MHz 9uF" (at 99.06 48.3869 0)
+    (property "Value" "25MHz 9pF" (at 99.06 48.3869 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm" (at 90.17 50.8 0)
@@ -6795,9 +6795,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8d54ab2e-53af-40a0-9df1-5397309dab1a))
-    (pin "4" (uuid 29929baf-e185-4c59-8eb2-dbee4b047be0))
     (pin "2" (uuid 128dbed6-c6ce-4310-b6dd-3f2d9c0d038d))
     (pin "3" (uuid 0c39e643-ad6b-4ccd-aaae-8de7d81ed9ea))
+    (pin "4" (uuid 29929baf-e185-4c59-8eb2-dbee4b047be0))
     (instances
       (project "pcb"
         (path "/87522a5a-c4e2-43e8-b481-132c116818d5"
@@ -7459,7 +7459,7 @@
     (property "Value" "1KB" (at 264.795 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_0402_1005Metric" (at 264.795 106.68 0)
+    (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (at 264.795 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.795 106.68 0)
