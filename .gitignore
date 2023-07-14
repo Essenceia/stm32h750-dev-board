@@ -2,9 +2,12 @@
 !*.md
 !.gitignore
 !doc
+!gbr
 !*.pdf
 !*.svg
 !*.kicad_sch
 !*.kicad_pcb
 !*.kicad_pro
 !*.csv
+!*.gbr
+!*.drl
