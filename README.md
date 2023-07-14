@@ -14,7 +14,7 @@ Requirements :
 
 ## Schematics
 
-![schematics!](/doc/schematic.pdf)
+Schematic : [schematics](/doc/schematic.pdf)
 
 ## PCB
 
