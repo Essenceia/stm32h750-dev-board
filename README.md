@@ -10,7 +10,23 @@ Requirements :
 
 - SWD debug connected with pinout compatible with native 20 pin J-Link probe
 
-# SWD - J-Link
+- Route all other pins to female connectors
+
+## Schematics
+
+![schematics!](/doc/schematic.pdf)
+
+## PCB
+
+Resulting pcb, fount coper layer : 
+
+![fount!](/doc/pcb-F_Cu.svg)
+
+back coper layer :
+
+![back!](/doc/pcb-B_Cu.svg)
+
+## SWD - J-Link
 
 SWD Connector Pinout:
 ![connector!](/doc/swd_jlink.svg)
