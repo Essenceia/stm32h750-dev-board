@@ -1,6 +1,6 @@
-# MCU
+# 10 year Anniversary developpement board
 
-Minimal custom arm m7 devloppement board. 
+Minimal custom arm m7 devloppement board designed as a 10 year anniversary present. 
 
 Selected MCU : STM32H750VBT6TR 
 
@@ -10,7 +10,7 @@ Requirements :
 
 - SWD debug connected with pinout compatible with native 20 pin J-Link probe
 
-- Route all other pins to female connectors
+- Route all remaining mcu pins to female connectors 
 
 ## Schematics
 
