@@ -12,3 +12,5 @@
 !*.gbr
 !*.drl
 !*.png
+!pick_and_place
+!*.pos
