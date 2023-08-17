@@ -2,6 +2,8 @@
 
 Minimal custom arm m7 devloppement board designed as a 10 year anniversary present. 
 
+![picture!](/doc/pic.png)
+
 Selected MCU : STM32H750VBT6TR 
 
 MCU package :  LQFP-100 
