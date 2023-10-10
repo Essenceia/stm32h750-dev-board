@@ -1,7 +1,6 @@
-Item #,*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,*Package/Footprint ,Type,Your Instructions / Notes
+Item #,Designator,Qty,Manufacturer,Mfg Part #,Description / Value,Package/Footprint ,Type,Your Instructions / Notes
 1,"DC6,DC3,DC5,DC4,DC8,DC9,DC7,DC11,DC1,DC2",10,KEMET,C0402C104K4RAC,100nF,0402,SMD,
-2,U3,1,"
-Texas Instruments                                            ",TLV1117-33CDCYRG3,TLV1117-33,SOT-223,SMD,
+2,U3,1,Texas Instruments                                            ,TLV1117-33CDCYRG3,TLV1117-33,SOT-223,SMD,
 3,"R4,R5,R3",3,SEI Stackpole,RMCF0603JJ1K00,1k,0603,SMD,
 4,Y2,1,ECS Inc.,ECS-250-9-37B2-CKM-TR,25MHz 9uF,2.0x1.6mm,SMD,
 5,"R15,R14,R13,R7,R16,R12,R10,R11",8,YAGEO                  ,RC0402FR-0710KL,10k,0402,SMD,
